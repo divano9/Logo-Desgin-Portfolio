@@ -1,0 +1,161 @@
+
+@media(min-width:600px){
+    
+    #s-logo-1, #s-logo-3, #s-logo-4, #s-logo-5, #s-logo-8{
+        right: 5%;
+        top: 46%;
+    }
+
+
+    #s-logo-6{
+        right: 10%;
+    }
+
+    #s-logo-7{
+        right: 9%;
+    }
+
+    #s-logo-9{
+        right: 17%;
+    }
+
+    
+
+}
+
+@media(min-width:768px){
+
+
+
+}
+
+
+
+
+@media(min-width:992px){
+
+    .wrapper{
+        width: 900px;
+    }
+
+    .w-100{
+        display: block !important;
+    }
+
+    .about{
+        margin-top: 15%; 
+        justify-content: space-between;
+    }
+
+    .about .myImg{
+        margin-bottom: 0px !important;
+    }
+
+    .nav-social{
+        display: flex;
+    }
+
+    .nav-social .linked-in{
+        margin-left: 10px; 
+    }
+
+    .navbar li{
+        padding: 0;
+    }
+
+    .navbar li:hover{
+        background-color: transparent !important;
+    }
+
+    .navbar li:hover a{
+        color: #212529 !important;
+    }
+
+    #s-logo-1, #s-logo-3, #s-logo-4, #s-logo-5, #s-logo-8{
+        right: 5%;
+        top: 46%;
+    }
+
+    #s-logo-6{
+        right: 10%;
+    }
+
+    #s-logo-7{
+        right: 9%;
+    }
+
+    #s-logo-9{
+        right: 17%;
+    }
+
+}
+
+
+    
+
+@media(min-width:1200px){
+
+    .wrapper{
+        width: 1200px;
+    }
+
+    #s-logo-1, #s-logo-3, #s-logo-4, #s-logo-5, #s-logo-8{
+        top: 40%;
+        right: 11%;
+        max-width: 100%;
+        height: auto;
+    }
+ 
+    #s-logo-2{
+        top: 18%;
+        right: 22%;
+        max-height: 100%;
+        width: auto;
+    }
+    
+    #s-logo-6{
+        top: 20%;
+        right: 18%;
+        max-height: 100%;
+        width: auto;
+    }
+    
+    #s-logo-7{
+        top: 33%;
+        right: 18%;
+        max-height: 100%;
+        width: auto;
+    }
+    
+    #s-logo-9{
+        top: 30%;
+        right: 25%;
+    }
+
+}
+
+/* @media(max-height:540px){
+    .nav-side{
+        display: none;
+    }
+
+    .nav-side-mob{
+        display: none;
+    }
+
+    .nav-top{
+        display: block;
+    }
+
+} */
+
+
+@media(min-height:600px){
+ .main-txt{
+     margin: 0;
+ }
+}
+
+
+
+
