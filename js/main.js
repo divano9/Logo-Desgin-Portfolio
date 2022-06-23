@@ -2,7 +2,6 @@
 
 let storage = sessionStorage.getItem("idName");
 
-console.log (sessionStorage.getItem("idName"))
 
 const txt = document.getElementsByClassName("txt")[0];
 
@@ -24,8 +23,6 @@ const mockup2L = document.getElementById("mockup-2-L");
 
 txt.id = "tee"
 
-
-console.log(mockup2L.href)
 
 switch (storage) {
     case "logo1":

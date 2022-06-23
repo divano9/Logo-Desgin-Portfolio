@@ -25,6 +25,7 @@
 
 @media(min-width:768px){
 
+   
 
 
 }
@@ -47,8 +48,17 @@
         justify-content: space-between;
     }
 
+    .about div p{
+        font-size: 16pt;
+    }
+
+
     .about .myImg{
         margin-bottom: 0px !important;
+    }
+
+    .navbar .nav-link{
+        font-size: 20pt;
     }
 
     .nav-social{

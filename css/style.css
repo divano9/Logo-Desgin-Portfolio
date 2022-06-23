@@ -28,7 +28,7 @@ img{
     position: fixed;
     top: 0;
     width: 100%;
-    z-index: 9;
+    z-index: 25;
     
 }
 
@@ -37,12 +37,15 @@ img{
 }
 
 .navbar a{
-    color: #9e9eac !important;
-    
+    color: #9e9eac !important; 
 }
 
 .navbar a:hover{
     color: #213847 !important;
+}
+
+.navbar .nav-link{
+    font-size: 30pt;
 }
 
 .navbar-brand{
@@ -207,8 +210,13 @@ hr{
     justify-content: center;
 }
 
+.about div p{
+    font-size: 25pt;
+}
+
 .about h2{
     margin-bottom: 2.5rem;
+    font-size: 2.5rem;
 }
 
 .about .skills{
@@ -233,6 +241,7 @@ hr{
     position: relative;
     overflow: hidden;
 }
+
 
 .l-img{
     padding-right: 0;
